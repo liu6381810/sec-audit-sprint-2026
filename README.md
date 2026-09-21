@@ -1,2 +1,3 @@
 # sec-audit-sprint-2026
-Security audit sprint 2026 repository
+
+Repository for the 2026 security audit sprint.
